@@ -1,0 +1,48 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+body {
+    text-align: center;
+}
+
+#screen {
+    margin: auto;
+    background-color: gray;
+    color: white;
+    text-align: right;
+    width: 450px;
+    height: 150px;
+}
+
+#screendisplay {
+    font-size: 60px;
+}
+
+.buttons {
+    margin: 15px;
+}
+
+button {
+    display: inline-block;
+    margin: 5px 3px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.grey {
+    background-color: gray;
+}
+
+.black {
+    background-color: darkgray;
+}
+
+.color {
+    background-color: orange;
+}
